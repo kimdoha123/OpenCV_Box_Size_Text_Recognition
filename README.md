@@ -19,9 +19,9 @@
 ## 🧠 사용 기술  
 
 - **OpenCV (cv2)**: 실시간 영상 처리 및 객체 감지  
-- **PySide6 (Qt)**: GUI 및 사용자 인터페이스  
-- **Numpy**: 고성능 수치 계산  
-- **Pytesseract**: 이미지에서 문자 인식  
+- **PySide6 (Qt)**: 사용자 인터페이스  
+- **Numpy**
+- **Pytesseract**: 문자 인식  
 - **Scikit-learn (SGDClassifier)**: 숫자 인식 머신러닝 모델  
 
 ---
